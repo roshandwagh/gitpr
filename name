@@ -2,3 +2,9 @@
 abc=100
 name=rahul
 name=roshan
+# adding new feature by feature/f1
+hello world
+
+# adding new feature by feature/f2
+
+printf("hello world how are you"); #fixed the bug from f2
