@@ -12,3 +12,9 @@ printf("hello world how are you"); #fixed the bug from f2
 #bug is fixed by hotfix
 
 call 1000
+
+
+
+# adding new feature after hotfix 
+
+1000=2000
