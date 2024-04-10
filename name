@@ -8,3 +8,7 @@ hello world
 # adding new feature by feature/f2
 
 printf("hello world how are you"); #fixed the bug from f2
+
+#bug is fixed by hotfix
+
+call 1000
