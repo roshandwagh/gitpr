@@ -7,4 +7,4 @@ hello world
 
 # adding new feature by feature/f2
 
-printf("hello world");
+printf("hello world how are you"); #fixed the bug from f2
